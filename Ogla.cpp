@@ -4,14 +4,14 @@
 #include <cmath>
 #include <fstream>
 #include <cstring>
-
-
-using namespace std;
 class SquareMatrix;
 class IdentityMatrix;
 class EliminationMatrix;
 class PermutationMatrix;
 
+
+
+using namespace std;
 class Matrix {
 public:
 
